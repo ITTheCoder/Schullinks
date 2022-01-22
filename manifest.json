@@ -1,0 +1,7 @@
+{
+    "name": "Links",
+    "short_name": "Links",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
